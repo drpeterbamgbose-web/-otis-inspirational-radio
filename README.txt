@@ -16,3 +16,4 @@ NOTES:
 - Browser autoplay requires user interaction.
 - Verify you have rights to publish/broadcast all AI-assisted music.
 - The MP4 birthday video was not included because the radio is audio-only.
+- OTIS Inspirational Radio - Music library deployment
