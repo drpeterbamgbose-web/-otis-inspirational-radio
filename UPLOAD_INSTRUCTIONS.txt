@@ -1,0 +1,7 @@
+OTIS Inspirational Radio: Seven Communities Upgrade
+
+Upload the contents of this ZIP to the ROOT of your existing GitHub repository (main branch). Replace index.html, playlist.json and widget.html if prompted. Add the assets/ folder, including assets/studio.png and assets/communities/*.png. Do NOT delete or replace any existing otis-track-01.mp3 through otis-track-11.mp3 files. Do not upload the ZIP itself.
+
+Vercel should deploy from the connected main branch. Keep your existing URL https://otis-inspirational-radio.vercel.app/
+
+Click each community to filter its playlist. Some communities have no assigned songs yet; this is intentional. The playlist file retains the original 11 songs and their existing groups.
